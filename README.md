@@ -1,6 +1,20 @@
-# 💫 About Me:
-👋 Hi, I’m Mohammad Mahdi Khademi<br>I’m an undergraduate Mechanical Engineering student at Iran University of Science and Technology, specializing in mechatronics, robotics, and autonomous systems with a strong interest in AI, reinforcement learning, and computer vision. I enjoy building intelligent systems that bridge the gap between simulation and real-world applications.<br><br>🔍 My current focus includes:<br><br>Reinforcement Learning for autonomous navigation and control<br><br>Robotics and mechatronic design<br><br>Deep learning applications in perception and automation<br><br>Practical simulation-to-real development workflows<br><br>🛠️ I’m experienced in Python, MATLAB, C++, TensorFlow, Keras, and ROS-based tools — and I’m always eager to learn and collaborate on AI, robotics, and engineering projects.<br><br>🚀 Outside of academics and research, I love exploring new technologies, sharing knowledge, and constantly pushing the boundaries of what intelligent systems can do.
+# 💫 About Me
 
+👋 Hi, I’m Mohammad Mahdi Khademi  
+
+I’m an undergraduate Mechanical Engineering student at Iran University of Science and Technology, specializing in mechatronics, robotics, and autonomous systems with a strong interest in AI, reinforcement learning, and computer vision. I enjoy building intelligent systems that bridge the gap between simulation and real-world applications.
+
+---
+
+## 🔍 My Current Focus
+
+- Reinforcement Learning for autonomous navigation and control
+- Robotics and mechatronic design
+- Deep learning applications in perception and automation
+- Practical simulation-to-real development workflows
+
+---
+🚀 Outside of academics and research, I love exploring new technologies, sharing knowledge, and constantly pushing the boundaries of what intelligent systems can do.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iamdarthknight) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.mahdikhademi._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/mohammadmahdikhademi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadmahdikhademi1@gmail.com) 
